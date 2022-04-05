@@ -1,5 +1,5 @@
-# VAM Cheatsheet for 
-This cheatsheet is a supplement to CyberVista's **[Vulnerability Assessment and Management Course](https://www.cybervista.net/critical-knowledge/vulnerability-assessment-management/)**.
+# VAM Cheatsheet
+## Supplement to CyberVista's **[Vulnerability Assessment and Management Course](https://www.cybervista.net/critical-knowledge/vulnerability-assessment-management/)**.
 ---
 ### About the Course
 Whether it’s the Blue, Red, or Purple Team, Vulnerability Management is a critical component in protecting the organization from cyber-attacks. Where the Security Operations Center (SOC) is responsible for putting out fires, the role of Vulnerability Management is to assess, prioritize, and resolve weaknesses in enterprise systems before getting the SOC involved. 
