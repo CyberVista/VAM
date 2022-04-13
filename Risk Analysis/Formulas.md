@@ -15,5 +15,7 @@ Risk = Likelihood X Impact
 Risk = Likelihood + Impact
 ```
 ### Examples
-```Risk = 1 (L) + 5 (I) = 6 (Medium)
-Risk = 9 (L) * 10 (I) = 90 (High)```
+```
+Risk = 1 (L) + 5 (I) = 6 (Medium)
+Risk = 9 (L) * 10 (I) = 90 (High)
+```
