@@ -8,7 +8,7 @@ Relative prioritization that could use:
 - Number scale (1 to 10)
 - Specific terms (Certain or Likely and Moderate or Negligible)
 
-Typically, the impact will include the relative importance of the asset.
+> Typically, the impact will include the relative importance of the asset.
 ### Formulas
 ```
 Risk = Likelihood X Impact
