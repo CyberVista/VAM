@@ -3,6 +3,7 @@
 - **Threat** - Events that intentionally or inadvertently cause harm
 - **Likelihood** - Probability of the threat occuring
 - **Impact** - Magnitude of the resulting loss when the threat occurs
+- **Risk** - A threat event that includes the likelihood and impact 
 ## Qualitative Analysis
 Relative prioritization that could use:
 - Number scale (1 to 10)
