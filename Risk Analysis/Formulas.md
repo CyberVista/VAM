@@ -1,4 +1,4 @@
-#Risk Analysis Formulas
+# Risk Analysis Formulas
 Common formulas used in risk analysis
 
 ## General Terms
