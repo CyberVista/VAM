@@ -1,7 +1,7 @@
 # Risk Analysis Formulas
 ## General Terms
 - **Threat** - Events that intentionally or inadvertently cause harm
-- **Likelihood** - Probability of a threat occuring
+- **Likelihood** - Probability of the threat occuring
 - **Impact** - Magnitude of the resulting loss when the threat occurs
 ## Qualitative Analysis
 Relative prioritization that could use:
